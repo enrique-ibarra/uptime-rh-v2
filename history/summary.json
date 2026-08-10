@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.29%",
+    "uptimeYear": "46.56%",
     "time": 149,
-    "timeDay": 84,
-    "timeWeek": 114,
-    "timeMonth": 113,
+    "timeDay": 134,
+    "timeWeek": 119,
+    "timeMonth": 112,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2025-09-27": 1251,
@@ -64,7 +64,6 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
       "2026-03-13": 931,
       "2026-03-12": 1440,
       "2026-03-11": 1440,
@@ -222,15 +221,15 @@
     "icon": "https://catering.roaminghunger.com/favicon.ico",
     "slug": "catering",
     "status": "up",
-    "uptime": "81.71%",
+    "uptime": "81.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.18%",
-    "time": 143,
-    "timeDay": 215,
+    "uptimeYear": "30.45%",
+    "time": 144,
+    "timeDay": 135,
     "timeWeek": 172,
-    "timeMonth": 165,
+    "timeMonth": 164,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2026-04-20": 1332,
@@ -485,8 +484,7 @@
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
-      "2025-08-11": 1440,
-      "2025-08-10": 1440
+      "2025-08-11": 1440
     }
   },
   {
@@ -495,15 +493,15 @@
     "icon": "https://kitchen.roaminghunger.com/favicon.ico",
     "slug": "kitchen",
     "status": "up",
-    "uptime": "81.69%",
+    "uptime": "81.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.18%",
+    "uptimeYear": "30.45%",
     "time": 139,
-    "timeDay": 208,
-    "timeWeek": 135,
-    "timeMonth": 147,
+    "timeDay": 102,
+    "timeWeek": 132,
+    "timeMonth": 144,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2026-04-20": 1332,
@@ -758,8 +756,7 @@
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
-      "2025-08-11": 1440,
-      "2025-08-10": 1440
+      "2025-08-11": 1440
     }
   },
   {
@@ -768,15 +765,15 @@
     "icon": "https://vendor.roaminghunger.com/favicon.ico",
     "slug": "vendor",
     "status": "up",
-    "uptime": "81.69%",
+    "uptime": "81.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.18%",
+    "uptimeYear": "30.45%",
     "time": 140,
-    "timeDay": 212,
-    "timeWeek": 166,
-    "timeMonth": 150,
+    "timeDay": 173,
+    "timeWeek": 170,
+    "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2026-04-20": 1332,
@@ -1031,8 +1028,7 @@
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
-      "2025-08-11": 1440,
-      "2025-08-10": 1440
+      "2025-08-11": 1440
     }
   },
   {
@@ -1047,10 +1043,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 465,
-    "timeDay": 620,
-    "timeWeek": 390,
+    "timeDay": 304,
+    "timeWeek": 406,
     "timeMonth": 397,
-    "timeYear": 499,
+    "timeYear": 498,
     "dailyMinutesDown": {
       "2026-03-16": 60,
       "2026-04-02": 25,
