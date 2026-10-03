@@ -5,15 +5,15 @@
     "icon": "https://roaminghunger.com/favicon.ico",
     "slug": "web",
     "status": "up",
-    "uptime": "85.75%",
+    "uptime": "85.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "59.93%",
     "time": 153,
-    "timeDay": 60,
-    "timeWeek": 147,
-    "timeMonth": 157,
+    "timeDay": 70,
+    "timeWeek": 136,
+    "timeMonth": 152,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2026-03-13": 931,
@@ -173,15 +173,15 @@
     "icon": "https://catering.roaminghunger.com/favicon.ico",
     "slug": "catering",
     "status": "up",
-    "uptime": "82.29%",
+    "uptime": "82.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.01%",
+    "uptimeYear": "45.28%",
     "time": 150,
-    "timeDay": 89,
-    "timeWeek": 161,
-    "timeMonth": 174,
+    "timeDay": 51,
+    "timeWeek": 150,
+    "timeMonth": 169,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2026-04-20": 1332,
@@ -382,8 +382,7 @@
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
-      "2025-10-04": 1440,
-      "2025-10-03": 1440
+      "2025-10-04": 1440
     }
   },
   {
@@ -392,15 +391,15 @@
     "icon": "https://kitchen.roaminghunger.com/favicon.ico",
     "slug": "kitchen",
     "status": "up",
-    "uptime": "82.27%",
+    "uptime": "82.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.01%",
+    "uptimeYear": "45.28%",
     "time": 145,
-    "timeDay": 94,
-    "timeWeek": 155,
-    "timeMonth": 170,
+    "timeDay": 72,
+    "timeWeek": 147,
+    "timeMonth": 165,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2026-04-20": 1332,
@@ -601,8 +600,7 @@
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
-      "2025-10-04": 1440,
-      "2025-10-03": 1440
+      "2025-10-04": 1440
     }
   },
   {
@@ -611,15 +609,15 @@
     "icon": "https://vendor.roaminghunger.com/favicon.ico",
     "slug": "vendor",
     "status": "up",
-    "uptime": "82.27%",
+    "uptime": "82.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.01%",
+    "uptimeYear": "45.28%",
     "time": 147,
-    "timeDay": 34,
-    "timeWeek": 159,
-    "timeMonth": 174,
+    "timeDay": 49,
+    "timeWeek": 147,
+    "timeMonth": 167,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2026-04-20": 1332,
@@ -820,8 +818,7 @@
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
-      "2025-10-04": 1440,
-      "2025-10-03": 1440
+      "2025-10-04": 1440
     }
   },
   {
@@ -836,10 +833,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 465,
-    "timeDay": 185,
-    "timeWeek": 327,
-    "timeMonth": 348,
-    "timeYear": 505,
+    "timeDay": 189,
+    "timeWeek": 324,
+    "timeMonth": 343,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2026-03-16": 60,
       "2026-04-02": 25,
