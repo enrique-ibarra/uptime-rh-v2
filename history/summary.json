@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "59.93%",
     "time": 153,
-    "timeDay": 228,
-    "timeWeek": 116,
-    "timeMonth": 149,
+    "timeDay": 139,
+    "timeWeek": 125,
+    "timeMonth": 150,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2026-03-13": 931,
@@ -173,16 +173,16 @@
     "icon": "https://catering.roaminghunger.com/favicon.ico",
     "slug": "catering",
     "status": "up",
-    "uptime": "82.34%",
+    "uptime": "82.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.38%",
+    "uptimeYear": "46.65%",
     "time": 151,
-    "timeDay": 244,
-    "timeWeek": 160,
-    "timeMonth": 169,
-    "timeYear": 150,
+    "timeDay": 239,
+    "timeWeek": 184,
+    "timeMonth": 173,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2026-04-20": 1332,
       "2026-04-19": 1440,
@@ -377,8 +377,7 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
-      "2025-10-08": 1440
+      "2025-10-09": 1440
     }
   },
   {
@@ -387,15 +386,15 @@
     "icon": "https://kitchen.roaminghunger.com/favicon.ico",
     "slug": "kitchen",
     "status": "up",
-    "uptime": "82.32%",
+    "uptime": "82.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.38%",
+    "uptimeYear": "46.65%",
     "time": 146,
-    "timeDay": 261,
-    "timeWeek": 148,
-    "timeMonth": 167,
+    "timeDay": 159,
+    "timeWeek": 161,
+    "timeMonth": 170,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2026-04-20": 1332,
@@ -591,8 +590,7 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
-      "2025-10-08": 1440
+      "2025-10-09": 1440
     }
   },
   {
@@ -601,15 +599,15 @@
     "icon": "https://vendor.roaminghunger.com/favicon.ico",
     "slug": "vendor",
     "status": "up",
-    "uptime": "82.32%",
+    "uptime": "82.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.38%",
+    "uptimeYear": "46.65%",
     "time": 148,
-    "timeDay": 208,
-    "timeWeek": 128,
-    "timeMonth": 161,
+    "timeDay": 225,
+    "timeWeek": 150,
+    "timeMonth": 164,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2026-04-20": 1332,
@@ -805,8 +803,7 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
-      "2025-10-08": 1440
+      "2025-10-09": 1440
     }
   },
   {
@@ -821,9 +818,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 465,
-    "timeDay": 328,
-    "timeWeek": 303,
-    "timeMonth": 346,
+    "timeDay": 346,
+    "timeWeek": 325,
+    "timeMonth": 351,
     "timeYear": 505,
     "dailyMinutesDown": {
       "2026-03-16": 60,
